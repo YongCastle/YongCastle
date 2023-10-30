@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=greeting_man)](https://solved.ac/greeting_man/)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongCastle&show_icons=true&theme=radical)
 
 <!--
